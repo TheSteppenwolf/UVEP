@@ -1,7 +1,7 @@
 # UVEP
 Upload, Visualize, Evaluate and Predict football matches
 
-## Description:
+## Main objective:
 This is a system that is intended to predict football matches outcomes.
 
 ## Main technologies:
